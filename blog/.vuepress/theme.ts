@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "jinweiOS/blog", // TODO: 修改默认跳转仓库
+  repo: "1q1q1qqqwwww/Blog", // TODO: 修改默认跳转仓库
 
   docsDir: "Blog",
 
