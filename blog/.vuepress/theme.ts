@@ -16,7 +16,7 @@ export default hopeTheme({
 
   repo: "1q1q1qqqwwww/Blog", // TODO: 修改默认跳转仓库
 
-  docsDir: "Blog",
+  docsDir: "blog",
 
   // navbar
   navbar: navbar,
